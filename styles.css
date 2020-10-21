@@ -57,12 +57,14 @@ span
   padding: 0 20px;
 
 }
-.nav-link{
+.nav-link
+{
   font-weight: bold;
   font-style: oblique;
 }
 
-.download-button{
+.download-button
+{
   margin-left: 60%;
 
 }
@@ -74,7 +76,8 @@ span
 
 }
 
-#features {
+#features 
+{
   padding: 15% 15%;
   background-color: white;
   position:relative;
